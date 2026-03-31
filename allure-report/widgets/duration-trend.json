@@ -1,1 +1,1 @@
-[{"data":{"duration":31822246}}]
+[{"buildOrder":2,"reportUrl":"http://localhost:8080/job/opencart2026_local/2/allure","reportName":"AllureReport","data":{"duration":1150100794}},{"buildOrder":1,"reportUrl":"http://localhost:8080/job/opencart2026_local/1/allure","reportName":"AllureReport","data":{"duration":1140659015}}]
